@@ -19,8 +19,8 @@ A curated collection of useful OBS Studio plugins, scripts and related apps to i
 ### ▶️ Elgato Stream Deck Mobile — Virtual Stream Deck app for phones and tablets.
 
 **Software (Stream Deck):** [https://www.elgato.com/uk/en/s/downloads](https://www.elgato.com/uk/en/s/downloads)
-**App Store:**  [https://apps.apple.com/us/app/elgato-stream-deck-mobile/id1440014184](https://apps.apple.com/us/app/elgato-stream-deck-mobile/id1440014184)
-**Google Play Store:**  [https://play.google.com/store/apps/details?id=com.corsair.android.streamdeck&hl=en-US](https://play.google.com/store/apps/details?id=com.corsair.android.streamdeck&hl=en-US)
+**App Store:**  [https://apps.apple.com/us/app/elgato-stream-deck-mobile/id1440014184](https://apps.apple.com/us/app/elgato-stream-deck-mobile/id1440014184)   
+**Google Play Store:**  [https://play.google.com/store/apps/details?id=com.corsair.android.streamdeck&hl=en-US](https://play.google.com/store/apps/details?id=com.corsair.android.streamdeck&hl=en-US)   
 
 **Use case:**  Control OBS, launch apps, trigger hotkeys, switch scenes, run macros, and manage your stream from your mobile device.
 
