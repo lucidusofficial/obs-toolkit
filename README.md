@@ -25,7 +25,7 @@ A curated collection of useful OBS Studio plugins and scripts to improve streami
 ### 🌐 Aitum Multistream — Sends one stream to multiple platforms.
   
 **Direct:** [https://obsproject.com/forum/resources/aitum-multistream.1991](https://obsproject.com/forum/resources/aitum-multistream.1991)   
-**GitHub:** [https://github.com/Aitum/obs-multistream](https://github.com/Aitum/obs-multistream)  
+**GitHub:** [https://github.com/Aitum/obs-aitum-multistream](https://github.com/Aitum/obs-aitum-multistream)  
 
 **Use case:** Stream to more than one destination at once (Twitch, YouTube, TikTok, Kick).
 
@@ -96,8 +96,8 @@ A curated collection of useful OBS Studio plugins and scripts to improve streami
 
 ### 📚 OBS Named Chapters — Adds named markers to recordings.
   
-**Direct:**  
-**GitHub:**  
+**Direct:**  [https://obsproject.com/forum/resources/additional-chapter-hotkeys-30-2.1957](https://obsproject.com/forum/resources/additional-chapter-hotkeys-30-2.1957)
+**GitHub:**  [https://github.com/derrod/obs-named-chapter-hotkeys](https://github.com/derrod/obs-named-chapter-hotkeys)
 
 **Use case:** Make long recordings easier to navigate later.
 
@@ -162,5 +162,5 @@ A curated collection of useful OBS Studio plugins and scripts to improve streami
 Some plugins work even better together!
 
 ### 🗒️ Examples:
-- *'*Move'** and **'Advanced Scene Switcher'** together to automatically move my webcam source when specific game scenes are active, so my webcam goes to a preselected place all on its own and I don't have to move it manually.
+- **'Move'** and **'Advanced Scene Switcher'** together to automatically move my webcam source when specific game scenes are active, so my webcam goes to a preselected place all on its own and I don't have to move it manually.
 - **'Move'** and **'OBS Face Tracker'** together to make your webcam feel alive only when you want it to.
