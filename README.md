@@ -1,4 +1,4 @@
-# Useful-OBS-Plugins
+# obs-toolkit
 
 A curated collection of useful OBS Studio plugins and scripts to improve streaming/recording workflows. Plugins grouped by purpose (performance, visuals, audio, automation).
 
