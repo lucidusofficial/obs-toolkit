@@ -96,7 +96,7 @@ A curated collection of useful OBS Studio plugins and scripts to improve streami
 
 ### 📚 OBS Named Chapters — Adds named markers to recordings.
   
-**Direct:**  [https://obsproject.com/forum/resources/additional-chapter-hotkeys-30-2.1957](https://obsproject.com/forum/resources/additional-chapter-hotkeys-30-2.1957)
+**Direct:**  [https://obsproject.com/forum/resources/additional-chapter-hotkeys-30-2.1957](https://obsproject.com/forum/resources/additional-chapter-hotkeys-30-2.1957)    
 **GitHub:**  [https://github.com/derrod/obs-named-chapter-hotkeys](https://github.com/derrod/obs-named-chapter-hotkeys)
 
 **Use case:** Make long recordings easier to navigate later.
