@@ -121,15 +121,6 @@ A curated collection of useful OBS Studio plugins and scripts to improve streami
 
 ---
 
-### 📈 Waveform — Displays audio waveforms for sources.
-  
-**Direct:** [https://obsproject.com/forum/resources/waveform.1423](https://obsproject.com/forum/resources/waveform.1423)  
-**GitHub:** [https://github.com/exeldro/obs-waveform](https://github.com/exeldro/obs-waveform)  
-
-**Use case:** Visualize audio for timing, effects, or monitoring.
-
----
-
 ### 🧬 Source Clone — Duplicates a source without affecting the original.
   
 **Direct:** [https://obsproject.com/forum/resources/source-clone.1632](https://obsproject.com/forum/resources/source-clone.1632)  
@@ -145,6 +136,15 @@ A curated collection of useful OBS Studio plugins and scripts to improve streami
 **GitHub:** [https://github.com/exeldro/obs-source-copy](https://github.com/exeldro/obs-source-copy)  
 
 **Use case:** Reuse the same setup across multiple scenes.
+
+---
+
+### 📈 Waveform — Displays audio waveforms for sources.
+  
+**Direct:** [https://obsproject.com/forum/resources/waveform.1423](https://obsproject.com/forum/resources/waveform.1423)  
+**GitHub:** [https://github.com/exeldro/obs-waveform](https://github.com/exeldro/obs-waveform)  
+
+**Use case:** Visualize audio for timing, effects, or monitoring.
 
 ---
 
