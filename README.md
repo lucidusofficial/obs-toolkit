@@ -1,8 +1,42 @@
 # obs-toolkit
 
-A curated collection of useful OBS Studio plugins and scripts to improve streaming/recording workflows. Plugins grouped by purpose (performance, visuals, audio, automation).
+A curated collection of useful OBS Studio plugins, scripts and related apps to improve streaming/recording workflows.
 
 ---
+
+## 📲 Apps
+
+### 📹 DroidCam — Turn your phone into a wireless webcam for OBS.
+
+**Direct:**  [https://droidcam.app](https://droidcam.app)
+**App Store:**  [https://apps.apple.com/us/app/droidcam-webcam-obs-camera/id1510258102](https://apps.apple.com/us/app/droidcam-webcam-obs-camera/id1510258102)
+**Google Play Store:**  [https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam&hl=en-US](https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam&hl=en-US)
+
+**Use case:**  Use an Android or iPhone as a high-quality webcam over USB or Wi-Fi for OBS, streaming, recording, or video conferencing (with Virtual Camera).
+
+---
+
+### ▶️ Elgato Stream Deck Mobile — Virtual Stream Deck app for phones and tablets.
+
+**Software (Stream Deck):** [https://www.elgato.com/uk/en/s/downloads](https://www.elgato.com/uk/en/s/downloads)
+**App Store:**  [https://apps.apple.com/us/app/elgato-stream-deck-mobile/id1440014184](https://apps.apple.com/us/app/elgato-stream-deck-mobile/id1440014184)
+**Google Play Store:**  [https://play.google.com/store/apps/details?id=com.corsair.android.streamdeck&hl=en-US](https://play.google.com/store/apps/details?id=com.corsair.android.streamdeck&hl=en-US)
+
+**Use case:**  Control OBS, launch apps, trigger hotkeys, switch scenes, run macros, and manage your stream from your mobile device.
+
+---
+
+### 🌌 Touch Portal — Customizable macro and automation controller.
+
+**Software:** [https://www.touch-portal.com/#downloadstitle](https://www.touch-portal.com/#downloadstitle)  
+**App Store:**  [https://apps.apple.com/nl/app/touch-portal/id1410172542](https://apps.apple.com/nl/app/touch-portal/id1410172542)
+**Google Play Store:**  [https://play.google.com/store/apps/details?id=rils.apps.touchportal](https://play.google.com/store/apps/details?id=rils.apps.touchportal)
+
+**Use case:**  Create custom buttons, pages, and automation to control OBS, applications, smart home devices, and system actions from your phone or tablet.
+
+---
+
+## 🔌 Plugins
 
 ### 🔁 Advanced Scene Switcher — Automates scene changes with rules and macros.
   
@@ -164,3 +198,17 @@ Some plugins work even better together!
 ### 🗒️ Examples:
 - **'Move'** and **'Advanced Scene Switcher'** together to automatically move my webcam source when specific game scenes are active, so my webcam goes to a preselected place all on its own and I don't have to move it manually.
 - **'Move'** and **'OBS Face Tracker'** together to make your webcam feel alive only when you want it to.
+
+---
+
+## 📜 Scripts (.lua)
+
+### 🚨 Source Toggler
+
+**Direct:**  [https://obsproject.com/forum/resources/source-toggler.860/](https://obsproject.com/forum/resources/source-toggler.860/)   
+**GitHub:**  [https://github.com/exeldro/obs-lua/blob/master/source-toggler.lua](https://github.com/exeldro/obs-lua/blob/master/source-toggler.lua)  
+
+**Use case:** Toggles visibility so only one source in a scene or group is shown at a time, useful for clean scene switching.
+
+---
+
